@@ -1,0 +1,1 @@
+2+2|9*2|sen45|cos20|tan69|cot10|sec30|csc56|raiz9|2^5|log45
